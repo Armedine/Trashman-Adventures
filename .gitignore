@@ -3,6 +3,8 @@
 /[Oo]bj/
 /[Bb]uild/
 
+/Assets/Thumbs.db
+
 *.csproj
 *.unityproj
 *.sln
