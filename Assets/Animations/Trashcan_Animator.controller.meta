@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Animations/Trashcan_Animator.controller.meta
 guid: c3b4e794c8a321947afa68400d8670c1
+=======
+guid: aca719d0dd3e4a54db1869c0cc5bd905
+>>>>>>> c94fda33cce4629717361bfd8b5a4643cd31097e:Assets/Animations/Trashcan_Animator.controller.meta
 timeCreated: 1442708168
 licenseType: Free
 NativeFormatImporter:
