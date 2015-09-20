@@ -1,20 +1,16 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: 8d836b4bce5319142a3eb971c9ee5432
-=======
-guid: d83ddbf52040b2b4994add6f37848d36
->>>>>>> c94fda33cce4629717361bfd8b5a4643cd31097e
-timeCreated: 1442707827
+timeCreated: 1442777096
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: idle
-    21300002: idle_ready
-    21300004: run_1
-    21300006: run_2
-    21300008: run_3
-    21300010: run_4
-    21300012: run_5
+    21300000: trashcanman_0
+    21300002: trashcanman_1
+    21300004: trashcanman_2
+    21300006: trashcanman_3
+    21300008: trashcanman_4
+    21300010: trashcanman_5
+    21300012: trashcanman_6
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -38,7 +34,7 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 2048
+  maxTextureSize: 1024
   textureSettings:
     filterMode: 0
     aniso: 16
@@ -60,7 +56,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: idle
+    - name: trashcanman_0
       rect:
         serializedVersion: 2
         x: 17
@@ -68,9 +64,9 @@ TextureImporter:
         width: 47
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: idle_ready
+    - name: trashcanman_1
       rect:
         serializedVersion: 2
         x: 80
@@ -78,9 +74,9 @@ TextureImporter:
         width: 45
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: run_1
+    - name: trashcanman_2
       rect:
         serializedVersion: 2
         x: 138
@@ -88,9 +84,9 @@ TextureImporter:
         width: 37
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: run_2
+    - name: trashcanman_3
       rect:
         serializedVersion: 2
         x: 193
@@ -100,7 +96,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: run_3
+    - name: trashcanman_4
       rect:
         serializedVersion: 2
         x: 19
@@ -110,7 +106,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: run_4
+    - name: trashcanman_5
       rect:
         serializedVersion: 2
         x: 83
@@ -118,9 +114,9 @@ TextureImporter:
         width: 35
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: run_5
+    - name: trashcanman_6
       rect:
         serializedVersion: 2
         x: 139
