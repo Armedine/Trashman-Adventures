@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 57a52af2c1cb2bc4898e55e0d3d96558
+timeCreated: 1442974017
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: recyle_monster_fixed_sprites_0
+    21300002: recyle_monster_fixed_sprites_1
+    21300004: recyle_monster_fixed_sprites_2
+    21300006: recyle_monster_fixed_sprites_3
+    21300008: recyle_monster_fixed_sprites_4
+    21300010: recyle_monster_fixed_sprites_5
+    21300012: recyle_monster_fixed_sprites_6
+    21300014: recyle_monster_fixed_sprites_7
+    21300016: recyle_monster_fixed_sprites_8
+    21300018: recyle_monster_fixed_sprites_9
+    21300020: recyle_monster_fixed_sprites_10
+    21300022: recyle_monster_fixed_sprites_11
+    21300024: recyle_monster_fixed_sprites_12
+    21300026: recyle_monster_fixed_sprites_13
+    21300028: recyle_monster_fixed_sprites_14
+    21300030: recyle_monster_fixed_sprites_15
+    21300032: recyle_monster_fixed_sprites_16
+    21300034: recyle_monster_fixed_sprites_17
+    21300036: recyle_monster_fixed_sprites_18
+    21300038: recyle_monster_fixed_sprites_19
+    21300040: recyle_monster_fixed_sprites_20
+    21300042: recyle_monster_fixed_sprites_21
+    21300044: recyle_monster_fixed_sprites_22
+    21300046: recyle_monster_fixed_sprites_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: recyle_monster_fixed_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 255
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 255
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 255
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 255
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 205
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 205
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 205
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 205
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 155
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 155
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 155
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 155
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 105
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 105
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 105
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 105
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 55
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 55
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 55
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 55
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: recyle_monster_fixed_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 5
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
